@@ -46,7 +46,6 @@
             </el-aside>
             <!--右侧内容-->
             <el-main>
-                <!---->
                 <router-view></router-view>
             </el-main>
         </el-container>
