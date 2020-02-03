@@ -173,7 +173,6 @@
                     if (data.meta.status !== 200) {
                         return this.$message.error('查询分类失败!')
                     }
-                    console.log(data)
                     this.catelist = data.data.result
                     this.total = data.data.total
                 })
