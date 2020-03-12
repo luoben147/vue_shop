@@ -1,4 +1,5 @@
 # vue_shop
+vue+elementui 商品管理系统
 
 ## Project setup
 ```
